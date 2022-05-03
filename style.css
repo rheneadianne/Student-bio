@@ -1,10 +1,14 @@
+body{
+    background:#d2ecff;
+}
+
 .contain {
     width: 750px;
     height: auto;
     position: absolute;
     font-family: 'Quicksand', sans-serif;
     top:50%;
-    margin-top:-350px;
+    margin-top:-300px;
     left: 50%;
     margin-left:-405px;
     background: #9ec1db;
