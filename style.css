@@ -10,7 +10,7 @@
     background: #9ec1db;
     padding:25px;
     color:#061a29;
-    border:#193d58 5px solid;
+    border:#8aabc4 5px solid;
     border-radius: 20px;
 }
 
@@ -32,6 +32,7 @@
     text-align: center;
     border-radius: 20px;
     font-size:15px;
+    font-weight:bold;
 }
 
 header h1 {
@@ -42,6 +43,7 @@ header h1 {
     margin:0;
     padding:10px;
     letter-spacing: 20px;
+    border-radius: 10px;
 }
 
 .pic-n-name h2{
@@ -87,5 +89,6 @@ header h1 {
 
 .links a:hover {
     border-left:50px solid #ffd361;
-    width:380pc;
+    width:380px;
+    letter-spacing: 1px;
 }
